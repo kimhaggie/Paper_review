@@ -4,3 +4,4 @@
 Neural Ordinary Differential Equations - [paperlink](https://arxiv.org/abs/1806.07366) <br/>
 Time-series Generative Adversarial Networks - [paperlink](https://papers.nips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html) <br/>
 Latent ODEs for Irregularly-Sampled Time Series - [paperlink](https://arxiv.org/abs/1907.03907) <br/>
+GRU-ODE-Bayes: Continuous modeling of sporadically-observed time series - [paperlink](https://arxiv.org/abs/1905.12374) <br/>
