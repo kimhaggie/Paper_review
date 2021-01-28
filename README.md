@@ -6,3 +6,4 @@ Time-series Generative Adversarial Networks - [paperlink](https://papers.nips.cc
 Latent ODEs for Irregularly-Sampled Time Series - [paperlink](https://arxiv.org/abs/1907.03907) <br/>
 GRU-ODE-Bayes: Continuous modeling of sporadically-observed time series - [paperlink](https://arxiv.org/abs/1905.12374) <br/>
 Augmented Neural ODEs - [paperlink](https://arxiv.org/abs/1904.01681)<br/>
+Auto-Encoding Variational Bayes - [paperlink](https://arxiv.org/abs/1312.6114)<br/>
