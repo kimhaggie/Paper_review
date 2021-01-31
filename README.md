@@ -8,3 +8,4 @@ GRU-ODE-Bayes: Continuous modeling of sporadically-observed time series - [paper
 Augmented Neural ODEs - [paperlink](https://arxiv.org/abs/1904.01681)<br/>
 Auto-Encoding Variational Bayes - [paperlink](https://arxiv.org/abs/1312.6114)<br/>
 NICE: NON-LINEAR INDEPENDENT COMPONENTS ESTIMATION - [paperlink](https://arxiv.org/abs/1410.8516)<br/>
+Variational Inference with Normalizing Flows - [paperlink](https://arxiv.org/abs/1505.05770)<br/>
